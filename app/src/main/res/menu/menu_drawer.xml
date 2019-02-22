@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav1"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav1" />
+        <item
+            android:id="@+id/nav2"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav2" />
+        <item
+            android:id="@+id/nav3"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav3" />
+        <item
+            android:id="@+id/nav4"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav4" />
+        <item
+            android:id="@+id/nav5"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav5" />
+        <item
+            android:id="@+id/nav6"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav6" />
+        <item
+            android:id="@+id/nav7"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav7" />
+        <item
+            android:id="@+id/nav8"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav8" />
+        <item
+            android:id="@+id/nav9"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav9" />
+        <item
+            android:id="@+id/nav10"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav10" />
+        <item
+            android:id="@+id/nav11"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav11" />
+        <item
+            android:id="@+id/nav12"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav12" />
+        <item
+            android:id="@+id/nav13"
+            android:icon="@drawable/ic_menu_drawer"
+            android:title="nav13" />
+    </group>
+</menu>
