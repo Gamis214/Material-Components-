@@ -8,3 +8,5 @@ Links de estudio:
 ## Capturas
 ![Captura 1](https://cdn1.imggmi.com/uploads/2019/2/28/aa515a1b2795725cd68eee1031768c08-full.png)
 ![Captura 2](https://cdn1.imggmi.com/uploads/2019/2/28/ee44e901fd238084b58ac7e292ea2ec1-full.png)
+
+* https://cdn1.imggmi.com/uploads/2019/2/28/ee44e901fd238084b58ac7e292ea2ec1-full.png
